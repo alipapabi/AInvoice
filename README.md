@@ -1,4 +1,4 @@
-# AInvoice
+# AInvoice 发票管家
 发票管家，最好用的PDF/OFD/JPG/PNG/JPEG票据识别，查重，合并，导出EXCEL工具
 ![1-界面及介绍](https://github.com/user-attachments/assets/9260b994-4ff0-4012-a809-654b9a956478)
 
