@@ -1,5 +1,7 @@
 # AInvoice 发票管家 - 最好用的发票整理工具
-最好用的发票识别管理工具，支持PDF/OFD/JPG/PNG/JPEG票据识别，查重，合并，导出EXCEL工具 1-界面及介绍
+最好用的发票识别管理工具，用Python编写的便携式单exe文件，经历了近一年的精细化打磨，具有OCR图像识别技术，支持单页及多页PDF/OFD/JPG/PNG/JPEG票据识别，金额快速统计，发票查重，多PDF文件合并，支持导出Excel，支持识别增值税专用发票、增值税普通发票、铁路发票、航空发票、统一收据、银行回单
+
+### 1-界面及介绍
 ![1-界面及介绍](https://github.com/user-attachments/assets/e3d7663e-bc04-4a58-88ac-9aca80e514d8)
 
 ## 软件介绍
@@ -38,4 +40,7 @@
 ![7-多页合并打印](https://github.com/user-attachments/assets/a6ef20a5-9af8-469c-9efb-c1917f56772d)
 
 ⚠ 注意事项：仅适配WIN10及以上系统，数量单位信息供参考，票据项目分行显示存在截断可能。   
-✨ 摆脱繁琐手动操作，点击了解详情，解锁报销票据处理新方式！
+✨ 摆脱繁琐手动操作，点击了解详情，解锁报销票据处理新方式！  
+
+<img width="481" height="200" alt="Coffee" src="https://github.com/user-attachments/assets/a5bf3ce0-e59b-4fd3-b6b9-a07774e4e7a2" /><br/>
+如果觉得小工具做得不错，欢迎打赏一杯咖啡或者给我提提改进建议！
