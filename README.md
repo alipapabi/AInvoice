@@ -2,7 +2,8 @@
 最好用的发票信息识别管理工具，用Python编写的便携式单exe文件，经历了近一年的精细化打磨，具有OCR图像识别技术，支持单页及多页PDF/OFD/JPG/PNG/JPEG票据识别，金额快速统计，发票查重，多PDF文件合并，支持导出Excel，支持识别增值税专用发票、增值税普通发票、铁路发票、航空发票、统一收据、银行回单
 
 ### 1-界面及介绍
-![1-界面及介绍](https://github.com/user-attachments/assets/e3d7663e-bc04-4a58-88ac-9aca80e514d8)
+![1-界面及介绍](https://github.com/user-attachments/assets/e3d7663e-bc04-4a58-88ac-9aca80e514d8)  
+视频介绍链接：https://www.bilibili.com/video/BV1GcuVzYETz/?vd_source=45c2552184f405e45122d28d49140b07
 
 ## 软件介绍
 ### ✅ 高效处理，省时省力
