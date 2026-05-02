@@ -34,6 +34,15 @@
   · 财税版：识别单票多行数据  
   · 综合版：OCR识别扫描件及图片、增识铁路票/回单（受图片质量影响，OCR准确率约90%）
 <br /><br />
+
+下载链接：<br/>
+请先下载试用！<br/>
+百度网盘：https://pan.baidu.com/s/1bM7A0SN3Wb8Rcph36vSjFA?pwd=inw9 <br/>
+私有云盘：http://gofile.me/3raau/oFQMri93P <br/>
+
+任意链接下载最新版EXE文件，免安装 <br/>
+注：试用满意，购码激活即可长期用（一机一码）。不联网，无包月，不限时，不限次使用。 <br/>
+ <br/>
 ### 票管家基本界面，简单实用，独有读取信息窗体
 ![2-功能介绍](https://github.com/user-attachments/assets/8ecc9456-4b0f-4600-8020-4dbcd1b10eb6)
 ### 支持OCR提取图片类发票信息
